@@ -1,0 +1,1 @@
+export default () => {console.log('%chey', 'color: red; font-size: 24px')}
